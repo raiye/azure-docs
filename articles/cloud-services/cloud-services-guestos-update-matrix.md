@@ -13,7 +13,7 @@ ms.devlang: na
 ms.topic: article
 ms.tgt_pltfrm: na
 ms.workload: tbd
-ms.date: 8/3/2017
+ms.date: 8/8/2017
 ms.author: raiye
 
 ---
@@ -25,11 +25,8 @@ Provides you with up-to-date information about the latest Azure Guest OS release
 >
 >
 
+<a data-event="blog-clicked-subscribecta" href="https://raw.githubusercontent.com/MicrosoftDocs/azure-cloud-services-files/master/GuestOS/GuestOSFeed.xml" target="_blank" class="wa-button wa-button-rss" ms.pgarea="content" ms.cmpgrp="body" ms.cmptyp="button" ms.cmpnm="Subscribe" ms.title="" ms.interactiontype="22"> <span class="icon icon-size2"><svg style="display:none; visibility:hidden;"><defs><symbol id="rss-alt" viewBox="5 5 40 40"> <path fill="#FFFFFF" d="M31.5,41.3h-5.6c0-9.5-7.7-17.2-17.2-17.2v-5.6C21.3,18.5,31.5,28.7,31.5,41.3z"></path> <path fill="#FFFFFF" d="M41.3,41.3h-5.6c0-14.9-12.2-27-27-27V8.7C26.7,8.7,41.3,23.3,41.3,41.3z"></path> <circle fill="#FFFFFF" cx="14.2" cy="35.8" r="5.5"></circle> </symbol> </defs></svg><svg aria-hidden="true" role="presentation"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#rss-alt"></use></svg></span> Subscribe </a>to our new RSS Feed for timely notifications about Guest OS Updates!
 
-> [!NOTE]
-> The RSS Feed was recently deprecated. Watch for updates on a new feed coming soon!
->
->
 
 Unsure about what the Guest OS is or how the Guest OS releases work? Read [this](#how-it-works) section.
 
