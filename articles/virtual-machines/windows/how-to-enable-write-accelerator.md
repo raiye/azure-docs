@@ -4,7 +4,7 @@ description: Documentation on how to enable and use Write Accelerator
 services: virtual-machines-windows
 documentationcenter: ''
 author: raiye
-manager: markkie
+manager: patfilot
 editor: ''
 tags: azure-resource-manager
 keywords: ''
@@ -14,7 +14,7 @@ ms.devlang: NA
 ms.topic: article
 ms.tgt_pltfrm: vm-windows
 ms.workload: infrastructure
-ms.date: 5/2/2018
+ms.date: 5/9/2018
 ms.author: raiye
 ms.custom: H1Hack27Feb2017
 
